@@ -13,6 +13,7 @@ also contains
 
 - Little Docs about Paged Lists (docx)
 - VR Basic Common Utils Sources
+- VR Generic Multi Dim Array for C++
 - Env Var Notes for sources
 
 for C++ Builder (Embarcadero)
@@ -20,7 +21,7 @@ for C++ Builder (Embarcadero)
 - Special DLLs Build
 - Env Vars Notes for DLLs build
 - AxDefines
-- VCL Test Application for a simple Paged List
+- VCL Test Application for Paged List
 
 have fun
 
@@ -29,3 +30,4 @@ for more products call
 Vincent Radio {Adrix.NT}
 adrixnt@hotmail.it
 +39.340.6130991
+
