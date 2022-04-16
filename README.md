@@ -14,6 +14,7 @@ also contains
 - Little Docs about Paged Lists (docx)
 - VR Basic Common Utils Sources
 - VR Generic Multi Dim Array for C++
+- VR Generic Direct Oriented Graph (Adjacency List | Matrix) Classes for C++
 - Env Var Notes for sources
 
 for C++ Builder (Embarcadero)
